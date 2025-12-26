@@ -13,7 +13,7 @@
     "nerdamer": "^1.1.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^4.0.0",
+    "react-scripts": "^5.0.1",
     "require": "^2.4.20"
   },
   "devDependencies": {
